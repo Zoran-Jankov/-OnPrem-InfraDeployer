@@ -1,0 +1,4 @@
+Name;Memory;Processors;DiskSize
+DC-01;4GB;16;50GB
+Mail;8GB;16;100GB
+ReverseProxy;2GB;1;25GB
